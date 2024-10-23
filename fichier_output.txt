@@ -1,0 +1,1 @@
+ Bonjour, ceci est un fichier audio test pour la plateforme RAG LLM.
